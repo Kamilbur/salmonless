@@ -11,7 +11,7 @@ python = "^3.12"
 polars = "^1.25.2"
 matplotlib = "^3.10.1"
 jupyterlab = "^4.3.6"
-sra_explorer = {path = "../../../../sra_explorer"}
+sra_explorer = {path = "../../../sra_explorer"}
 tqdm = "^4.67.1"
 
 
