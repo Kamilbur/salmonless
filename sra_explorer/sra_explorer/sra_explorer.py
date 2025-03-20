@@ -111,7 +111,7 @@ class SRAExplorer:
         return self._record_cache[0]
 
     @property
-    def count(self):
+    def experiment_count(self):
         return self._count
 
     @staticmethod
@@ -158,16 +158,3 @@ class SRAExplorer:
             partial_xml,
             '</document>',
         ])
-
-
-if __name__ == '__main__':
-    import itertools
-    print(SRAExplorer('liver').count)
-
-    for line in itertools.islice(SRAExplorer('GSM8785702[All Fields] AND FL423[All Fields]'), 750):
-        print(line)
-
-    aggr = []
-    for line in itertools.islice(SRAExplorer('liver'), 750):
-        aggr.append(line)
-        print(line)
