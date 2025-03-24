@@ -1,0 +1,32 @@
+Bootstrap: docker
+FROM: python:3.12-slim-bookworm
+
+%post
+    apt-get update && apt-get install -y \
+        zip \
+        && rm -rf /var/lib/apt/lists/*
+
+    pip install --upgrade setuptools six pip \
+    && pip install --no-cache-dir \
+        boto3 \
+        pika \
+        flask \
+        gevent \
+        redis \
+        requests \
+        PyYAML \
+        numpy \
+        cloudpickle \
+        ps-mem \
+        tblib \
+        psutil
+
+%files
+    lithops_singularity.zip /lithops/lithops_singularity.zip
+
+%post
+    cd /lithops
+    unzip lithops_singularity.zip 
+
+%runscript
+    python3 /lithops/lithopsentry.py $AMQP_URL

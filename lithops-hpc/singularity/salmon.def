@@ -1,0 +1,59 @@
+Bootstrap: docker
+From: ubuntu:22.04
+Stage: build
+
+%post
+    export DEBIAN_FRONTEND=noninteractive
+
+    apt-get update
+    apt-get install -y \
+        wget \
+        unzip \
+        g++ \
+        gcc \
+        make \
+        cmake
+    apt-get install --reinstall -y perl
+
+    wget https://github.com/Kamilbur/ncbi-vdb-dp/archive/refs/heads/optimized.zip -qO /opt/ncbi-vdb.zip
+    unzip /opt/ncbi-vdb.zip -d /opt
+    cd /opt/ncbi-vdb-dp-optimized
+    mkdir -p /opt/ncbi-vdb-dp-optimized/ncbi-outdir
+    mkdir -p /opt/lib-ncbi
+    ./configure --build-prefix=/opt/ncbi-vdb-dp-optimized/ncbi-outdir/ --prefix=/opt/lib-ncbi
+    make install -j $(($(nproc) + 1))
+
+    mkdir -p /opt/TAtlas/
+    wget https://github.com/COMBINE-lab/salmon/releases/download/v1.10.0/salmon-1.10.0_linux_x86_64.tar.gz -qO - | tar -zx -C /opt/TAtlas/
+
+
+    export DATAPLUG_BRANCH=speed-test
+    mkdir -p /opt/dataplug/
+    wget https://github.com/Kamilbur/dataplug-fork/archive/refs/heads/${DATAPLUG_BRANCH}.zip -qO /opt/dataplug.zip
+    unzip /opt/dataplug.zip -d /opt
+    mv /opt/dataplug-fork-${DATAPLUG_BRANCH}/* /opt/dataplug
+
+Bootstrap: localimage
+From: singularity-plantilla342-3.12-here.sif
+Stage: Final
+
+%files from build
+    /opt/TAtlas /opt
+    /opt/dataplug /opt
+    /opt/lib-ncbi /opt
+
+%files
+    index_Homo_sapiens.GRCh38 /opt/TAtlas
+    vdb.py /opt/lib-ncbi/py/vdb.py
+
+%post
+    export DEBIAN_FRONTEND=noninteractive
+    cd /opt/dataplug
+    python3 -m pip install -e .
+
+%environment
+    export NCBI_VDB_SO_PATH=/opt/lib-ncbi/lib64/libncbi-vdb.so
+    export PYTHONPATH=/opt/lib-ncbi/py:$PYTHONPATH
+
+%runscript
+    python3 /lithops/lithopsentry.py $AMQP_URL
