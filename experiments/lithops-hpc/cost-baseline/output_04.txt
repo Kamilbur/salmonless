@@ -1,0 +1,28 @@
+4
+SRR32296234
+1743176363486
+
+03/28 16:39:23 [[1;32mNOTICE[0m] Downloading 1 item(s)
+[#95cf20 270MiB/3.0GiB(8%) CN:4 DL:296MiB ETA:9s]
+[#95cf20 546MiB/3.0GiB(17%) CN:4 DL:286MiB ETA:8s]
+[#95cf20 830MiB/3.0GiB(26%) CN:4 DL:286MiB ETA:8s]
+[#95cf20 1.1GiB/3.0GiB(36%) CN:4 DL:291MiB ETA:6s]
+[#95cf20 1.4GiB/3.0GiB(46%) CN:4 DL:294MiB ETA:5s]
+[#95cf20 1.6GiB/3.0GiB(55%) CN:4 DL:295MiB ETA:4s]
+[#95cf20 1.9GiB/3.0GiB(65%) CN:4 DL:297MiB ETA:3s]
+[#95cf20 2.2GiB/3.0GiB(74%) CN:4 DL:297MiB ETA:2s]
+[#95cf20 2.5GiB/3.0GiB(84%) CN:4 DL:298MiB ETA:1s]
+[#95cf20 2.8GiB/3.0GiB(94%) CN:4 DL:299MiB]
+
+03/28 16:39:34 [[1;32mNOTICE[0m] Download complete: /scratch/SRR32296234
+
+Download Results:
+gid   |stat|avg speed  |path/URI
+======+====+===========+=======================================================
+95cf20|OK  |   297MiB/s|/scratch/SRR32296234
+
+Status Legend:
+(OK):download completed.
+1743176374301
+1743176466501
+1743180677541

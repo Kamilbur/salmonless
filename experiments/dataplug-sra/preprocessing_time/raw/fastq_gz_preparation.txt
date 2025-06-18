@@ -1,0 +1,517 @@
+Processing item: SRR19392985
+2025-05-13T03:15:40 prefetch.3.2.1: 1) Resolving 'SRR19392985'...
+2025-05-13T03:15:47 prefetch.3.2.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
+2025-05-13T03:15:48 prefetch.3.2.1: 1) Downloading 'SRR19392985'...
+2025-05-13T03:15:48 prefetch.3.2.1:  SRA Normalized Format file is being retrieved
+2025-05-13T03:15:48 prefetch.3.2.1:  Downloading via HTTPS...
+2025-05-13T03:15:50 prefetch.3.2.1:  HTTPS download succeed
+2025-05-13T03:15:50 prefetch.3.2.1:  'SRR19392985' is valid: 17470669 bytes were streamed from 17458713
+2025-05-13T03:15:50 prefetch.3.2.1: 1) 'SRR19392985' was downloaded successfully
+2025-05-13T03:15:50 prefetch.3.2.1: 1) Resolving 'SRR19392985's dependencies...
+2025-05-13T03:15:50 prefetch.3.2.1: 'SRR19392985' has 0 unresolved dependencies
+spots read      : 104,660
+reads read      : 104,660
+reads written   : 104,660
+`/net/afscra/people/plgkburkiewicz/fastqgzs/SRR19392985.fastq.gz` -> `cyfro-podole/sano5-tatlas-fastq/SRR19392985.fastq.gz`
+┌───────────┬─────────────┬──────────┬─────────────┐
+│ Total     │ Transferred │ Duration │ Speed       │
+│ 12.52 MiB │ 12.52 MiB   │ 00m00s   │ 57.67 MiB/s │
+└───────────┴─────────────┴──────────┴─────────────┘
+Elapsed time for SRR19392985: 14 seconds
+
+Processing item: SRR000001
+2025-05-13T03:15:54 prefetch.3.2.1: 1) Resolving 'SRR000001'...
+2025-05-13T03:16:01 prefetch.3.2.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
+2025-05-13T03:16:01 prefetch.3.2.1: 1) Downloading 'SRR000001'...
+2025-05-13T03:16:01 prefetch.3.2.1:  SRA Normalized Format file is being retrieved
+2025-05-13T03:16:01 prefetch.3.2.1:  Downloading via HTTPS...
+2025-05-13T03:16:15 prefetch.3.2.1:  HTTPS download succeed
+2025-05-13T03:16:15 prefetch.3.2.1:  'SRR000001' is valid: 312527083 bytes were streamed from 312523267
+2025-05-13T03:16:15 prefetch.3.2.1: 1) 'SRR000001' was downloaded successfully
+spots read      : 470,985
+reads read      : 470,985
+reads written   : 470,985
+`/net/afscra/people/plgkburkiewicz/fastqgzs/SRR000001.fastq.gz` -> `cyfro-podole/sano5-tatlas-fastq/SRR000001.fastq.gz`
+┌────────────┬─────────────┬──────────┬──────────────┐
+│ Total      │ Transferred │ Duration │ Speed        │
+│ 114.14 MiB │ 114.14 MiB  │ 00m01s   │ 102.03 MiB/s │
+└────────────┴─────────────┴──────────┴──────────────┘
+Elapsed time for SRR000001: 26 seconds
+
+Processing item: SRR000002
+2025-05-13T03:16:20 prefetch.3.2.1: 1) Resolving 'SRR000002'...
+2025-05-13T03:16:27 prefetch.3.2.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
+2025-05-13T03:16:27 prefetch.3.2.1: 1) Downloading 'SRR000002'...
+2025-05-13T03:16:27 prefetch.3.2.1:  SRA Normalized Format file is being retrieved
+2025-05-13T03:16:27 prefetch.3.2.1:  Downloading via HTTPS...
+2025-05-13T03:16:43 prefetch.3.2.1:  HTTPS download succeed
+2025-05-13T03:16:43 prefetch.3.2.1:  'SRR000002' is valid: 358999861 bytes were streamed from 358997547
+2025-05-13T03:16:43 prefetch.3.2.1: 1) 'SRR000002' was downloaded successfully
+spots read      : 528,988
+reads read      : 528,988
+reads written   : 528,988
+`/net/afscra/people/plgkburkiewicz/fastqgzs/SRR000002.fastq.gz` -> `cyfro-podole/sano5-tatlas-fastq/SRR000002.fastq.gz`
+┌────────────┬─────────────┬──────────┬─────────────┐
+│ Total      │ Transferred │ Duration │ Speed       │
+│ 121.89 MiB │ 121.89 MiB  │ 00m01s   │ 92.77 MiB/s │
+└────────────┴─────────────┴──────────┴─────────────┘
+Elapsed time for SRR000002: 29 seconds
+
+Processing item: SRR32296234
+2025-05-13T03:16:49 prefetch.3.2.1: 1) Resolving 'SRR32296234'...
+2025-05-13T03:16:56 prefetch.3.2.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
+2025-05-13T03:16:56 prefetch.3.2.1: 1) Downloading 'SRR32296234'...
+2025-05-13T03:16:56 prefetch.3.2.1:  SRA Normalized Format file is being retrieved
+2025-05-13T03:16:56 prefetch.3.2.1:  Downloading via HTTPS...
+2025-05-13T03:19:03 prefetch.3.2.1:  HTTPS download succeed
+2025-05-13T03:19:09 prefetch.3.2.1:  'SRR32296234' is valid: 3279135186 bytes were streamed from 3279127287
+2025-05-13T03:19:09 prefetch.3.2.1: 1) 'SRR32296234' was downloaded successfully
+2025-05-13T03:19:09 prefetch.3.2.1: 1) Resolving 'SRR32296234's dependencies...
+2025-05-13T03:19:09 prefetch.3.2.1: 'SRR32296234' has 0 unresolved dependencies
+spots read      : 74,671,431
+reads read      : 74,671,431
+reads written   : 74,671,431
+`/net/afscra/people/plgkburkiewicz/fastqgzs/SRR32296234.fastq.gz` -> `cyfro-podole/sano5-tatlas-fastq/SRR32296234.fastq.gz`
+┌──────────┬─────────────┬──────────┬──────────────┐
+│ Total    │ Transferred │ Duration │ Speed        │
+│ 4.50 GiB │ 4.50 GiB    │ 00m21s   │ 215.81 MiB/s │
+└──────────┴─────────────┴──────────┴──────────────┘
+Elapsed time for SRR32296234: 337 seconds
+
+Processing item: SRR32296235
+2025-05-13T03:22:26 prefetch.3.2.1: 1) Resolving 'SRR32296235'...
+2025-05-13T03:22:33 prefetch.3.2.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
+2025-05-13T03:22:33 prefetch.3.2.1: 1) Downloading 'SRR32296235'...
+2025-05-13T03:22:33 prefetch.3.2.1:  SRA Normalized Format file is being retrieved
+2025-05-13T03:22:33 prefetch.3.2.1:  Downloading via HTTPS...
+2025-05-13T03:24:39 prefetch.3.2.1:  HTTPS download succeed
+2025-05-13T03:25:01 prefetch.3.2.1:  'SRR32296235' is valid: 3259485007 bytes were streamed from 3259475451
+2025-05-13T03:25:01 prefetch.3.2.1: 1) 'SRR32296235' was downloaded successfully
+2025-05-13T03:25:01 prefetch.3.2.1: 1) Resolving 'SRR32296235's dependencies...
+2025-05-13T03:25:01 prefetch.3.2.1: 'SRR32296235' has 0 unresolved dependencies
+spots read      : 73,937,324
+reads read      : 73,937,324
+reads written   : 73,937,324
+`/net/afscra/people/plgkburkiewicz/fastqgzs/SRR32296235.fastq.gz` -> `cyfro-podole/sano5-tatlas-fastq/SRR32296235.fastq.gz`
+┌──────────┬─────────────┬──────────┬──────────────┐
+│ Total    │ Transferred │ Duration │ Speed        │
+│ 4.47 GiB │ 4.47 GiB    │ 00m20s   │ 218.81 MiB/s │
+└──────────┴─────────────┴──────────┴──────────────┘
+Elapsed time for SRR32296235: 337 seconds
+
+Processing item: SRR32296236
+2025-05-13T03:28:03 prefetch.3.2.1: 1) Resolving 'SRR32296236'...
+2025-05-13T03:28:10 prefetch.3.2.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
+2025-05-13T03:28:10 prefetch.3.2.1: 1) Downloading 'SRR32296236'...
+2025-05-13T03:28:10 prefetch.3.2.1:  SRA Normalized Format file is being retrieved
+2025-05-13T03:28:10 prefetch.3.2.1:  Downloading via HTTPS...
+2025-05-13T03:30:41 prefetch.3.2.1:  HTTPS download succeed
+2025-05-13T03:30:48 prefetch.3.2.1:  'SRR32296236' is valid: 3892916659 bytes were streamed from 3892903795
+2025-05-13T03:30:48 prefetch.3.2.1: 1) 'SRR32296236' was downloaded successfully
+2025-05-13T03:30:48 prefetch.3.2.1: 1) Resolving 'SRR32296236's dependencies...
+2025-05-13T03:30:48 prefetch.3.2.1: 'SRR32296236' has 0 unresolved dependencies
+spots read      : 67,642,928
+reads read      : 67,642,928
+reads written   : 67,642,928
+`/net/afscra/people/plgkburkiewicz/fastqgzs/SRR32296236.fastq.gz` -> `cyfro-podole/sano5-tatlas-fastq/SRR32296236.fastq.gz`
+┌──────────┬─────────────┬──────────┬──────────────┐
+│ Total    │ Transferred │ Duration │ Speed        │
+│ 4.88 GiB │ 4.88 GiB    │ 00m24s   │ 203.22 MiB/s │
+└──────────┴─────────────┴──────────┴──────────────┘
+Elapsed time for SRR32296236: 357 seconds
+
+Processing item: SRR32296237
+2025-05-13T03:34:00 prefetch.3.2.1: 1) Resolving 'SRR32296237'...
+2025-05-13T03:34:07 prefetch.3.2.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
+2025-05-13T03:34:08 prefetch.3.2.1: 1) Downloading 'SRR32296237'...
+2025-05-13T03:34:08 prefetch.3.2.1:  SRA Normalized Format file is being retrieved
+2025-05-13T03:34:08 prefetch.3.2.1:  Downloading via HTTPS...
+2025-05-13T03:36:37 prefetch.3.2.1:  HTTPS download succeed
+2025-05-13T03:36:50 prefetch.3.2.1:  'SRR32296237' is valid: 3854699694 bytes were streamed from 3854685579
+2025-05-13T03:36:50 prefetch.3.2.1: 1) 'SRR32296237' was downloaded successfully
+2025-05-13T03:36:50 prefetch.3.2.1: 1) Resolving 'SRR32296237's dependencies...
+2025-05-13T03:36:50 prefetch.3.2.1: 'SRR32296237' has 0 unresolved dependencies
+spots read      : 66,534,419
+reads read      : 66,534,419
+reads written   : 66,534,419
+`/net/afscra/people/plgkburkiewicz/fastqgzs/SRR32296237.fastq.gz` -> `cyfro-podole/sano5-tatlas-fastq/SRR32296237.fastq.gz`
+┌──────────┬─────────────┬──────────┬──────────────┐
+│ Total    │ Transferred │ Duration │ Speed        │
+│ 4.83 GiB │ 4.83 GiB    │ 00m29s   │ 169.97 MiB/s │
+└──────────┴─────────────┴──────────┴──────────────┘
+Elapsed time for SRR32296237: 380 seconds
+
+Processing item: SRR32296242
+2025-05-13T03:40:21 prefetch.3.2.1: 1) Resolving 'SRR32296242'...
+2025-05-13T03:40:28 prefetch.3.2.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
+2025-05-13T03:40:28 prefetch.3.2.1: 1) Downloading 'SRR32296242'...
+2025-05-13T03:40:29 prefetch.3.2.1:  SRA Normalized Format file is being retrieved
+2025-05-13T03:40:29 prefetch.3.2.1:  Downloading via HTTPS...
+2025-05-13T03:43:21 prefetch.3.2.1:  HTTPS download succeed
+2025-05-13T03:43:50 prefetch.3.2.1:  'SRR32296242' is valid: 4479134501 bytes were streamed from 4479127535
+2025-05-13T03:43:50 prefetch.3.2.1: 1) 'SRR32296242' was downloaded successfully
+2025-05-13T03:43:50 prefetch.3.2.1: 1) Resolving 'SRR32296242's dependencies...
+2025-05-13T03:43:51 prefetch.3.2.1: 'SRR32296242' has 0 unresolved dependencies
+spots read      : 99,123,969
+reads read      : 99,123,969
+reads written   : 99,123,969
+`/net/afscra/people/plgkburkiewicz/fastqgzs/SRR32296242.fastq.gz` -> `cyfro-podole/sano5-tatlas-fastq/SRR32296242.fastq.gz`
+┌──────────┬─────────────┬──────────┬──────────────┐
+│ Total    │ Transferred │ Duration │ Speed        │
+│ 6.09 GiB │ 6.09 GiB    │ 00m32s   │ 193.03 MiB/s │
+└──────────┴─────────────┴──────────┴──────────────┘
+Elapsed time for SRR32296242: 458 seconds
+
+Processing item: SRR32296243
+2025-05-13T03:47:58 prefetch.3.2.1: 1) Resolving 'SRR32296243'...
+2025-05-13T03:48:05 prefetch.3.2.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
+2025-05-13T03:48:06 prefetch.3.2.1: 1) Downloading 'SRR32296243'...
+2025-05-13T03:48:06 prefetch.3.2.1:  SRA Normalized Format file is being retrieved
+2025-05-13T03:48:06 prefetch.3.2.1:  Downloading via HTTPS...
+2025-05-13T03:50:56 prefetch.3.2.1:  HTTPS download succeed
+2025-05-13T03:51:05 prefetch.3.2.1:  'SRR32296243' is valid: 4450379865 bytes were streamed from 4450369651
+2025-05-13T03:51:05 prefetch.3.2.1: 1) 'SRR32296243' was downloaded successfully
+2025-05-13T03:51:05 prefetch.3.2.1: 1) Resolving 'SRR32296243's dependencies...
+2025-05-13T03:51:05 prefetch.3.2.1: 'SRR32296243' has 0 unresolved dependencies
+spots read      : 98,191,354
+reads read      : 98,191,354
+reads written   : 98,191,354
+`/net/afscra/people/plgkburkiewicz/fastqgzs/SRR32296243.fastq.gz` -> `cyfro-podole/sano5-tatlas-fastq/SRR32296243.fastq.gz`
+┌──────────┬─────────────┬──────────┬──────────────┐
+│ Total    │ Transferred │ Duration │ Speed        │
+│ 6.04 GiB │ 6.04 GiB    │ 00m40s   │ 153.39 MiB/s │
+└──────────┴─────────────┴──────────┴──────────────┘
+Elapsed time for SRR32296243: 436 seconds
+
+Processing item: SRR32296244
+2025-05-13T03:55:14 prefetch.3.2.1: 1) Resolving 'SRR32296244'...
+2025-05-13T03:55:21 prefetch.3.2.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
+2025-05-13T03:55:21 prefetch.3.2.1: 1) Downloading 'SRR32296244'...
+2025-05-13T03:55:21 prefetch.3.2.1:  SRA Normalized Format file is being retrieved
+2025-05-13T03:55:21 prefetch.3.2.1:  Downloading via HTTPS...
+2025-05-13T03:58:19 prefetch.3.2.1:  HTTPS download succeed
+2025-05-13T03:58:33 prefetch.3.2.1:  'SRR32296244' is valid: 4465460103 bytes were streamed from 4465450023
+2025-05-13T03:58:36 prefetch.3.2.1: 1) 'SRR32296244' was downloaded successfully
+2025-05-13T03:58:40 prefetch.3.2.1: 1) Resolving 'SRR32296244's dependencies...
+2025-05-13T03:58:51 prefetch.3.2.1: 'SRR32296244' has 0 unresolved dependencies
+spots read      : 100,306,995
+reads read      : 100,306,995
+reads written   : 100,306,995
+`/net/afscra/people/plgkburkiewicz/fastqgzs/SRR32296244.fastq.gz` -> `cyfro-podole/sano5-tatlas-fastq/SRR32296244.fastq.gz`
+┌──────────┬─────────────┬──────────┬──────────────┐
+│ Total    │ Transferred │ Duration │ Speed        │
+│ 6.13 GiB │ 6.13 GiB    │ 00m37s   │ 168.33 MiB/s │
+└──────────┴─────────────┴──────────┴──────────────┘
+Elapsed time for SRR32296244: 452 seconds
+
+Processing item: SRR32296245
+2025-05-13T04:02:46 prefetch.3.2.1: 1) Resolving 'SRR32296245'...
+2025-05-13T04:02:54 prefetch.3.2.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
+2025-05-13T04:02:55 prefetch.3.2.1: 1) Downloading 'SRR32296245'...
+2025-05-13T04:02:55 prefetch.3.2.1:  SRA Normalized Format file is being retrieved
+2025-05-13T04:02:55 prefetch.3.2.1:  Downloading via HTTPS...
+2025-05-13T04:07:34 prefetch.3.2.1:  HTTPS download succeed
+2025-05-13T04:07:43 prefetch.3.2.1:  'SRR32296245' is valid: 4396654387 bytes were streamed from 4396646255
+2025-05-13T04:07:43 prefetch.3.2.1: 1) 'SRR32296245' was downloaded successfully
+2025-05-13T04:07:43 prefetch.3.2.1: 1) Resolving 'SRR32296245's dependencies...
+2025-05-13T04:07:43 prefetch.3.2.1: 'SRR32296245' has 0 unresolved dependencies
+spots read      : 99,030,212
+reads read      : 99,030,212
+reads written   : 99,030,212
+`/net/afscra/people/plgkburkiewicz/fastqgzs/SRR32296245.fastq.gz` -> `cyfro-podole/sano5-tatlas-fastq/SRR32296245.fastq.gz`
+┌──────────┬─────────────┬──────────┬──────────────┐
+│ Total    │ Transferred │ Duration │ Speed        │
+│ 6.04 GiB │ 6.04 GiB    │ 00m31s   │ 196.37 MiB/s │
+└──────────┴─────────────┴──────────┴──────────────┘
+Elapsed time for SRR32296245: 519 seconds
+
+Processing item: SRR32296246
+2025-05-13T04:11:25 prefetch.3.2.1: 1) Resolving 'SRR32296246'...
+2025-05-13T04:11:32 prefetch.3.2.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
+2025-05-13T04:11:33 prefetch.3.2.1: 1) Downloading 'SRR32296246'...
+2025-05-13T04:11:33 prefetch.3.2.1:  SRA Normalized Format file is being retrieved
+2025-05-13T04:11:33 prefetch.3.2.1:  Downloading via HTTPS...
+2025-05-13T04:14:14 prefetch.3.2.1:  HTTPS download succeed
+2025-05-13T04:14:25 prefetch.3.2.1:  'SRR32296246' is valid: 4059806623 bytes were streamed from 4059803023
+2025-05-13T04:14:26 prefetch.3.2.1: 1) 'SRR32296246' was downloaded successfully
+2025-05-13T04:14:26 prefetch.3.2.1: 1) Resolving 'SRR32296246's dependencies...
+2025-05-13T04:14:26 prefetch.3.2.1: 'SRR32296246' has 0 unresolved dependencies
+spots read      : 90,384,531
+reads read      : 90,384,531
+reads written   : 90,384,531
+`/net/afscra/people/plgkburkiewicz/fastqgzs/SRR32296246.fastq.gz` -> `cyfro-podole/sano5-tatlas-fastq/SRR32296246.fastq.gz`
+┌──────────┬─────────────┬──────────┬──────────────┐
+│ Total    │ Transferred │ Duration │ Speed        │
+│ 5.54 GiB │ 5.54 GiB    │ 00m31s   │ 181.53 MiB/s │
+└──────────┴─────────────┴──────────┴──────────────┘
+Elapsed time for SRR32296246: 397 seconds
+
+Processing item: SRR32296247
+2025-05-13T04:18:02 prefetch.3.2.1: 1) Resolving 'SRR32296247'...
+2025-05-13T04:18:09 prefetch.3.2.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
+2025-05-13T04:18:09 prefetch.3.2.1: 1) Downloading 'SRR32296247'...
+2025-05-13T04:18:09 prefetch.3.2.1:  SRA Normalized Format file is being retrieved
+2025-05-13T04:18:09 prefetch.3.2.1:  Downloading via HTTPS...
+2025-05-13T04:20:45 prefetch.3.2.1:  HTTPS download succeed
+2025-05-13T04:21:22 prefetch.3.2.1:  'SRR32296247' is valid: 4045404202 bytes were streamed from 4045398999
+2025-05-13T04:21:22 prefetch.3.2.1: 1) 'SRR32296247' was downloaded successfully
+2025-05-13T04:21:22 prefetch.3.2.1: 1) Resolving 'SRR32296247's dependencies...
+2025-05-13T04:21:22 prefetch.3.2.1: 'SRR32296247' has 0 unresolved dependencies
+spots read      : 89,845,014
+reads read      : 89,845,014
+reads written   : 89,845,014
+`/net/afscra/people/plgkburkiewicz/fastqgzs/SRR32296247.fastq.gz` -> `cyfro-podole/sano5-tatlas-fastq/SRR32296247.fastq.gz`
+┌──────────┬─────────────┬──────────┬──────────────┐
+│ Total    │ Transferred │ Duration │ Speed        │
+│ 5.52 GiB │ 5.52 GiB    │ 00m30s   │ 187.70 MiB/s │
+└──────────┴─────────────┴──────────┴──────────────┘
+Elapsed time for SRR32296247: 412 seconds
+
+Processing item: SRR32296248
+2025-05-13T04:24:54 prefetch.3.2.1: 1) Resolving 'SRR32296248'...
+2025-05-13T04:25:02 prefetch.3.2.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
+2025-05-13T04:25:02 prefetch.3.2.1: 1) Downloading 'SRR32296248'...
+2025-05-13T04:25:02 prefetch.3.2.1:  SRA Normalized Format file is being retrieved
+2025-05-13T04:25:02 prefetch.3.2.1:  Downloading via HTTPS...
+2025-05-13T04:28:16 prefetch.3.2.1:  HTTPS download succeed
+2025-05-13T04:28:26 prefetch.3.2.1:  'SRR32296248' is valid: 5004095388 bytes were streamed from 5004091535
+2025-05-13T04:28:26 prefetch.3.2.1: 1) 'SRR32296248' was downloaded successfully
+2025-05-13T04:28:26 prefetch.3.2.1: 1) Resolving 'SRR32296248's dependencies...
+2025-05-13T04:28:26 prefetch.3.2.1: 'SRR32296248' has 0 unresolved dependencies
+spots read      : 113,239,682
+reads read      : 113,239,682
+reads written   : 113,239,682
+`/net/afscra/people/plgkburkiewicz/fastqgzs/SRR32296248.fastq.gz` -> `cyfro-podole/sano5-tatlas-fastq/SRR32296248.fastq.gz`
+┌──────────┬─────────────┬──────────┬──────────────┐
+│ Total    │ Transferred │ Duration │ Speed        │
+│ 6.90 GiB │ 6.90 GiB    │ 00m36s   │ 195.60 MiB/s │
+└──────────┴─────────────┴──────────┴──────────────┘
+Elapsed time for SRR32296248: 482 seconds
+
+Processing item: SRR32296249
+2025-05-13T04:32:57 prefetch.3.2.1: 1) Resolving 'SRR32296249'...
+2025-05-13T04:33:03 prefetch.3.2.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
+2025-05-13T04:33:04 prefetch.3.2.1: 1) Downloading 'SRR32296249'...
+2025-05-13T04:33:04 prefetch.3.2.1:  SRA Normalized Format file is being retrieved
+2025-05-13T04:33:04 prefetch.3.2.1:  Downloading via HTTPS...
+2025-05-13T04:36:14 prefetch.3.2.1:  HTTPS download succeed
+2025-05-13T04:36:24 prefetch.3.2.1:  'SRR32296249' is valid: 4933483907 bytes were streamed from 4933478495
+2025-05-13T04:36:25 prefetch.3.2.1: 1) 'SRR32296249' was downloaded successfully
+2025-05-13T04:36:25 prefetch.3.2.1: 1) Resolving 'SRR32296249's dependencies...
+2025-05-13T04:36:25 prefetch.3.2.1: 'SRR32296249' has 0 unresolved dependencies
+spots read      : 111,986,560
+reads read      : 111,986,560
+reads written   : 111,986,560
+`/net/afscra/people/plgkburkiewicz/fastqgzs/SRR32296249.fastq.gz` -> `cyfro-podole/sano5-tatlas-fastq/SRR32296249.fastq.gz`
+┌──────────┬─────────────┬──────────┬──────────────┐
+│ Total    │ Transferred │ Duration │ Speed        │
+│ 6.81 GiB │ 6.81 GiB    │ 00m36s   │ 192.81 MiB/s │
+└──────────┴─────────────┴──────────┴──────────────┘
+Elapsed time for SRR32296249: 457 seconds
+
+Processing item: SRR32296253
+2025-05-13T04:40:33 prefetch.3.2.1: 1) Resolving 'SRR32296253'...
+2025-05-13T04:40:40 prefetch.3.2.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
+2025-05-13T04:40:40 prefetch.3.2.1: 1) Downloading 'SRR32296253'...
+2025-05-13T04:40:40 prefetch.3.2.1:  SRA Normalized Format file is being retrieved
+2025-05-13T04:40:40 prefetch.3.2.1:  Downloading via HTTPS...
+2025-05-13T04:43:25 prefetch.3.2.1:  HTTPS download succeed
+2025-05-13T04:43:33 prefetch.3.2.1:  'SRR32296253' is valid: 4268372119 bytes were streamed from 4268366511
+2025-05-13T04:43:33 prefetch.3.2.1: 1) 'SRR32296253' was downloaded successfully
+2025-05-13T04:43:33 prefetch.3.2.1: 1) Resolving 'SRR32296253's dependencies...
+2025-05-13T04:43:33 prefetch.3.2.1: 'SRR32296253' has 0 unresolved dependencies
+spots read      : 100,739,650
+reads read      : 100,739,650
+reads written   : 100,739,650
+`/net/afscra/people/plgkburkiewicz/fastqgzs/SRR32296253.fastq.gz` -> `cyfro-podole/sano5-tatlas-fastq/SRR32296253.fastq.gz`
+┌──────────┬─────────────┬──────────┬──────────────┐
+│ Total    │ Transferred │ Duration │ Speed        │
+│ 5.92 GiB │ 5.92 GiB    │ 00m31s   │ 192.98 MiB/s │
+└──────────┴─────────────┴──────────┴──────────────┘
+Elapsed time for SRR32296253: 394 seconds
+
+Processing item: SRR32296254
+2025-05-13T04:47:07 prefetch.3.2.1: 1) Resolving 'SRR32296254'...
+2025-05-13T04:47:14 prefetch.3.2.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
+2025-05-13T04:47:15 prefetch.3.2.1: 1) Downloading 'SRR32296254'...
+2025-05-13T04:47:15 prefetch.3.2.1:  SRA Normalized Format file is being retrieved
+2025-05-13T04:47:15 prefetch.3.2.1:  Downloading via HTTPS...
+2025-05-13T04:49:59 prefetch.3.2.1:  HTTPS download succeed
+2025-05-13T04:50:08 prefetch.3.2.1:  'SRR32296254' is valid: 4309335937 bytes were streamed from 4309319923
+2025-05-13T04:50:08 prefetch.3.2.1: 1) 'SRR32296254' was downloaded successfully
+2025-05-13T04:50:08 prefetch.3.2.1: 1) Resolving 'SRR32296254's dependencies...
+2025-05-13T04:50:08 prefetch.3.2.1: 'SRR32296254' has 0 unresolved dependencies
+spots read      : 100,125,862
+reads read      : 100,125,862
+reads written   : 100,125,862
+`/net/afscra/people/plgkburkiewicz/fastqgzs/SRR32296254.fastq.gz` -> `cyfro-podole/sano5-tatlas-fastq/SRR32296254.fastq.gz`
+┌──────────┬─────────────┬──────────┬──────────────┐
+│ Total    │ Transferred │ Duration │ Speed        │
+│ 5.96 GiB │ 5.96 GiB    │ 00m30s   │ 198.61 MiB/s │
+└──────────┴─────────────┴──────────┴──────────────┘
+Elapsed time for SRR32296254: 419 seconds
+
+Processing item: SRR32296257
+2025-05-13T04:54:06 prefetch.3.2.1: 1) Resolving 'SRR32296257'...
+2025-05-13T04:54:13 prefetch.3.2.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
+2025-05-13T04:54:13 prefetch.3.2.1: 1) Downloading 'SRR32296257'...
+2025-05-13T04:54:13 prefetch.3.2.1:  SRA Normalized Format file is being retrieved
+2025-05-13T04:54:13 prefetch.3.2.1:  Downloading via HTTPS...
+2025-05-13T04:58:01 prefetch.3.2.1:  HTTPS download succeed
+2025-05-13T04:58:12 prefetch.3.2.1:  'SRR32296257' is valid: 5893152909 bytes were streamed from 5893149135
+2025-05-13T04:58:12 prefetch.3.2.1: 1) 'SRR32296257' was downloaded successfully
+2025-05-13T04:58:15 prefetch.3.2.1: 1) Resolving 'SRR32296257's dependencies...
+2025-05-13T04:58:18 prefetch.3.2.1: 'SRR32296257' has 0 unresolved dependencies
+spots read      : 138,526,666
+reads read      : 138,526,666
+reads written   : 138,526,666
+`/net/afscra/people/plgkburkiewicz/fastqgzs/SRR32296257.fastq.gz` -> `cyfro-podole/sano5-tatlas-fastq/SRR32296257.fastq.gz`
+┌──────────┬─────────────┬──────────┬──────────────┐
+│ Total    │ Transferred │ Duration │ Speed        │
+│ 8.17 GiB │ 8.17 GiB    │ 00m35s   │ 235.28 MiB/s │
+└──────────┴─────────────┴──────────┴──────────────┘
+Elapsed time for SRR32296257: 569 seconds
+
+Processing item: SRR32296276
+2025-05-13T05:03:35 prefetch.3.2.1: 1) Resolving 'SRR32296276'...
+2025-05-13T05:03:43 prefetch.3.2.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
+2025-05-13T05:03:43 prefetch.3.2.1: 1) Downloading 'SRR32296276'...
+2025-05-13T05:03:43 prefetch.3.2.1:  SRA Normalized Format file is being retrieved
+2025-05-13T05:03:43 prefetch.3.2.1:  Downloading via HTTPS...
+2025-05-13T05:05:48 prefetch.3.2.1:  HTTPS download succeed
+2025-05-13T05:06:21 prefetch.3.2.1:  'SRR32296276' is valid: 3211694903 bytes were streamed from 3211681087
+2025-05-13T05:06:21 prefetch.3.2.1: 1) 'SRR32296276' was downloaded successfully
+2025-05-13T05:06:21 prefetch.3.2.1: 1) Resolving 'SRR32296276's dependencies...
+2025-05-13T05:06:21 prefetch.3.2.1: 'SRR32296276' has 0 unresolved dependencies
+spots read      : 71,820,552
+reads read      : 71,820,552
+reads written   : 71,820,552
+`/net/afscra/people/plgkburkiewicz/fastqgzs/SRR32296276.fastq.gz` -> `cyfro-podole/sano5-tatlas-fastq/SRR32296276.fastq.gz`
+┌──────────┬─────────────┬──────────┬──────────────┐
+│ Total    │ Transferred │ Duration │ Speed        │
+│ 4.36 GiB │ 4.36 GiB    │ 00m19s   │ 223.93 MiB/s │
+└──────────┴─────────────┴──────────┴──────────────┘
+Elapsed time for SRR32296276: 331 seconds
+
+Processing item: SRR32296277
+2025-05-13T05:09:06 prefetch.3.2.1: 1) Resolving 'SRR32296277'...
+2025-05-13T05:09:13 prefetch.3.2.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
+2025-05-13T05:09:13 prefetch.3.2.1: 1) Downloading 'SRR32296277'...
+2025-05-13T05:09:13 prefetch.3.2.1:  SRA Normalized Format file is being retrieved
+2025-05-13T05:09:13 prefetch.3.2.1:  Downloading via HTTPS...
+2025-05-13T05:11:17 prefetch.3.2.1:  HTTPS download succeed
+2025-05-13T05:11:22 prefetch.3.2.1:  'SRR32296277' is valid: 3184517117 bytes were streamed from 3184516619
+2025-05-13T05:11:22 prefetch.3.2.1: 1) 'SRR32296277' was downloaded successfully
+2025-05-13T05:11:22 prefetch.3.2.1: 1) Resolving 'SRR32296277's dependencies...
+2025-05-13T05:11:22 prefetch.3.2.1: 'SRR32296277' has 0 unresolved dependencies
+spots read      : 70,968,154
+reads read      : 70,968,154
+reads written   : 70,968,154
+`/net/afscra/people/plgkburkiewicz/fastqgzs/SRR32296277.fastq.gz` -> `cyfro-podole/sano5-tatlas-fastq/SRR32296277.fastq.gz`
+┌──────────┬─────────────┬──────────┬──────────────┐
+│ Total    │ Transferred │ Duration │ Speed        │
+│ 4.32 GiB │ 4.32 GiB    │ 00m20s   │ 220.81 MiB/s │
+└──────────┴─────────────┴──────────┴──────────────┘
+Elapsed time for SRR32296277: 297 seconds
+
+Processing item: SRR32296278
+2025-05-13T05:14:03 prefetch.3.2.1: 1) Resolving 'SRR32296278'...
+2025-05-13T05:14:10 prefetch.3.2.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
+2025-05-13T05:14:10 prefetch.3.2.1: 1) Downloading 'SRR32296278'...
+2025-05-13T05:14:10 prefetch.3.2.1:  SRA Normalized Format file is being retrieved
+2025-05-13T05:14:10 prefetch.3.2.1:  Downloading via HTTPS...
+2025-05-13T05:16:42 prefetch.3.2.1:  HTTPS download succeed
+2025-05-13T05:17:03 prefetch.3.2.1:  'SRR32296278' is valid: 3911005012 bytes were streamed from 3911001899
+2025-05-13T05:17:03 prefetch.3.2.1: 1) 'SRR32296278' was downloaded successfully
+2025-05-13T05:17:03 prefetch.3.2.1: 1) Resolving 'SRR32296278's dependencies...
+2025-05-13T05:17:03 prefetch.3.2.1: 'SRR32296278' has 0 unresolved dependencies
+spots read      : 66,870,479
+reads read      : 66,870,479
+reads written   : 66,870,479
+`/net/afscra/people/plgkburkiewicz/fastqgzs/SRR32296278.fastq.gz` -> `cyfro-podole/sano5-tatlas-fastq/SRR32296278.fastq.gz`
+┌──────────┬─────────────┬──────────┬──────────────┐
+│ Total    │ Transferred │ Duration │ Speed        │
+│ 4.88 GiB │ 4.88 GiB    │ 00m24s   │ 204.39 MiB/s │
+└──────────┴─────────────┴──────────┴──────────────┘
+Elapsed time for SRR32296278: 363 seconds
+
+Processing item: SRR32296279
+2025-05-13T05:20:06 prefetch.3.2.1: 1) Resolving 'SRR32296279'...
+2025-05-13T05:20:13 prefetch.3.2.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
+2025-05-13T05:20:13 prefetch.3.2.1: 1) Downloading 'SRR32296279'...
+2025-05-13T05:20:13 prefetch.3.2.1:  SRA Normalized Format file is being retrieved
+2025-05-13T05:20:13 prefetch.3.2.1:  Downloading via HTTPS...
+2025-05-13T05:22:46 prefetch.3.2.1:  HTTPS download succeed
+2025-05-13T05:23:22 prefetch.3.2.1:  'SRR32296279' is valid: 3866497858 bytes were streamed from 3866485847
+2025-05-13T05:23:22 prefetch.3.2.1: 1) 'SRR32296279' was downloaded successfully
+2025-05-13T05:23:22 prefetch.3.2.1: 1) Resolving 'SRR32296279's dependencies...
+2025-05-13T05:23:22 prefetch.3.2.1: 'SRR32296279' has 0 unresolved dependencies
+spots read      : 65,649,142
+reads read      : 65,649,142
+reads written   : 65,649,142
+`/net/afscra/people/plgkburkiewicz/fastqgzs/SRR32296279.fastq.gz` -> `cyfro-podole/sano5-tatlas-fastq/SRR32296279.fastq.gz`
+┌──────────┬─────────────┬──────────┬──────────────┐
+│ Total    │ Transferred │ Duration │ Speed        │
+│ 4.82 GiB │ 4.82 GiB    │ 00m23s   │ 206.72 MiB/s │
+└──────────┴─────────────┴──────────┴──────────────┘
+Elapsed time for SRR32296279: 361 seconds
+
+Processing item: SRR32296304
+2025-05-13T05:26:07 prefetch.3.2.1: 1) Resolving 'SRR32296304'...
+2025-05-13T05:26:14 prefetch.3.2.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
+2025-05-13T05:26:15 prefetch.3.2.1: 1) Downloading 'SRR32296304'...
+2025-05-13T05:26:15 prefetch.3.2.1:  SRA Normalized Format file is being retrieved
+2025-05-13T05:26:15 prefetch.3.2.1:  Downloading via HTTPS...
+2025-05-13T05:28:43 prefetch.3.2.1:  HTTPS download succeed
+2025-05-13T05:28:51 prefetch.3.2.1:  'SRR32296304' is valid: 3810754556 bytes were streamed from 3810743879
+2025-05-13T05:28:51 prefetch.3.2.1: 1) 'SRR32296304' was downloaded successfully
+2025-05-13T05:28:51 prefetch.3.2.1: 1) Resolving 'SRR32296304's dependencies...
+2025-05-13T05:28:51 prefetch.3.2.1: 'SRR32296304' has 0 unresolved dependencies
+spots read      : 86,049,604
+reads read      : 86,049,604
+reads written   : 86,049,604
+`/net/afscra/people/plgkburkiewicz/fastqgzs/SRR32296304.fastq.gz` -> `cyfro-podole/sano5-tatlas-fastq/SRR32296304.fastq.gz`
+┌──────────┬─────────────┬──────────┬──────────────┐
+│ Total    │ Transferred │ Duration │ Speed        │
+│ 5.17 GiB │ 5.17 GiB    │ 00m25s   │ 209.33 MiB/s │
+└──────────┴─────────────┴──────────┴──────────────┘
+Elapsed time for SRR32296304: 359 seconds
+
+Processing item: SRR32499888
+2025-05-13T05:32:06 prefetch.3.2.1: 1) Resolving 'SRR32499888'...
+2025-05-13T05:32:13 prefetch.3.2.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
+2025-05-13T05:32:14 prefetch.3.2.1 warn: Maximum file size download limit is 20GB
+1) 'SRR32499888' (25GB) is larger than maximum allowed: skipped
+
+Download of some files was skipped because they are too large
+You can change size download limit by setting
+--min-size and --max-size command line arguments
+2025-05-13T05:32:22 fasterq-dump.3.2.1 err: name not found while resolving query within virtual file system module - failed to resolve accession 'SRR32499888/SRR32499888.sra' - no data ( 404 ); ncbi_phid='322CC77C46CFD6A50000261B7D0DC10E.1.m_2'
+2025-05-13T05:32:22 fasterq-dump.3.2.1 err: cannot find 'SRR32499888/SRR32499888.sra' -> RC(rcVFS,rcQuery,rcResolving,rcName,rcNotFound)
+fasterq-dump quit with error code 3
+pigz: skipping: SRR32499888.fastq does not exist
+mc: <ERROR> Unable to prepare URL for copying. Unable to guess the type of copy operation.
+# Elapsed time for SRR32499888: 16 seconds
+
+Processing item: SRR32499888
+2025-05-13T11:16:00 prefetch.3.2.1: 1) Resolving 'SRR32499888'...
+2025-05-13T11:16:08 prefetch.3.2.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
+2025-05-13T11:16:08 prefetch.3.2.1: 1) Downloading 'SRR32499888'...
+2025-05-13T11:16:08 prefetch.3.2.1:  SRA Normalized Format file is being retrieved
+2025-05-13T11:16:08 prefetch.3.2.1:  Downloading via HTTPS...
+2025-05-13T11:33:21 prefetch.3.2.1:  HTTPS download succeed
+2025-05-13T11:33:21 prefetch.3.2.1:   verifying 'SRR32499888'...
+2025-05-13T11:34:12 prefetch.3.2.1:  'SRR32499888' is valid: 27057820026 bytes were streamed from 27057806273
+2025-05-13T11:34:12 prefetch.3.2.1: 1) 'SRR32499888' was downloaded successfully
+2025-05-13T11:34:12 prefetch.3.2.1: 1) Resolving 'SRR32499888's dependencies...
+2025-05-13T11:34:12 prefetch.3.2.1: 'SRR32499888' has 0 unresolved dependencies
+spots read      : 240,430,047
+reads read      : 240,430,047
+reads written   : 240,430,047
+`/net/afscra/people/plgkburkiewicz/fastqgzs/SRR32499888.fastq.gz` -> `cyfro-podole/sano5-tatlas-fastq/SRR32499888.fastq.gz`
+┌───────────┬─────────────┬──────────┬──────────────┐
+│ Total     │ Transferred │ Duration │ Speed        │
+│ 32.87 GiB │ 32.87 GiB   │ 03m08s   │ 178.48 MiB/s │
+└───────────┴─────────────┴──────────┴──────────────┘
+Elapsed time for SRR32499888: 2202 seconds
+

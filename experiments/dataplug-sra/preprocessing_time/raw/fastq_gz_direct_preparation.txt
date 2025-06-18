@@ -1,0 +1,192 @@
+`/net/afscra/people/plgkburkiewicz/fastqgzs/SRR19392985.fastq.gz` -> `cyfro-podole/sano5-tatlas-fastq/SRR19392985.fastq.gz`
+┌──────────┬─────────────┬──────────┬─────────────┐
+│ Total    │ Transferred │ Duration │ Speed       │
+│ 8.37 MiB │ 8.37 MiB    │ 00m00s   │ 15.07 MiB/s │
+└──────────┴─────────────┴──────────┴─────────────┘
+Elapsed time for SRR19392985: 19 seconds
+
+Processing item: SRR000001
+`/net/afscra/people/plgkburkiewicz/fastqgzs/SRR000001.fastq.gz` -> `cyfro-podole/sano5-tatlas-fastq/SRR000001.fastq.gz`
+┌───────────┬─────────────┬──────────┬─────────────┐
+│ Total     │ Transferred │ Duration │ Speed       │
+│ 47.79 MiB │ 47.79 MiB   │ 00m00s   │ 58.31 MiB/s │
+└───────────┴─────────────┴──────────┴─────────────┘
+Elapsed time for SRR000001: 50 seconds
+
+Processing item: SRR000002
+`/net/afscra/people/plgkburkiewicz/fastqgzs/SRR000002.fastq.gz` -> `cyfro-podole/sano5-tatlas-fastq/SRR000002.fastq.gz`
+┌───────────┬─────────────┬──────────┬─────────────┐
+│ Total     │ Transferred │ Duration │ Speed       │
+│ 53.98 MiB │ 53.98 MiB   │ 00m00s   │ 85.31 MiB/s │
+└───────────┴─────────────┴──────────┴─────────────┘
+Elapsed time for SRR000002: 53 seconds
+
+Processing item: SRR32296234
+`/net/afscra/people/plgkburkiewicz/fastqgzs/SRR32296234.fastq.gz` -> `cyfro-podole/sano5-tatlas-fastq/SRR32296234.fastq.gz`
+┌───────┬─────────────┬──────────┬────────────┐
+│ Total │ Transferred │ Duration │ Speed      │
+│ 197 B │ 197 B       │ 00m00s   │ 1.10 KiB/s │
+└───────┴─────────────┴──────────┴────────────┘
+Elapsed time for SRR32296234: 8 seconds
+
+Processing item: SRR32296235
+`/net/afscra/people/plgkburkiewicz/fastqgzs/SRR32296235.fastq.gz` -> `cyfro-podole/sano5-tatlas-fastq/SRR32296235.fastq.gz`
+┌───────┬─────────────┬──────────┬─────────┐
+│ Total │ Transferred │ Duration │ Speed   │
+│ 197 B │ 197 B       │ 00m00s   │ 781 B/s │
+└───────┴─────────────┴──────────┴─────────┘
+Elapsed time for SRR32296235: 10 seconds
+
+Processing item: SRR32296236
+`/net/afscra/people/plgkburkiewicz/fastqgzs/SRR32296236.fastq.gz` -> `cyfro-podole/sano5-tatlas-fastq/SRR32296236.fastq.gz`
+┌───────┬─────────────┬──────────┬────────────┐
+│ Total │ Transferred │ Duration │ Speed      │
+│ 197 B │ 197 B       │ 00m00s   │ 1.47 KiB/s │
+└───────┴─────────────┴──────────┴────────────┘
+Elapsed time for SRR32296236: 8 seconds
+
+Processing item: SRR32296237
+`/net/afscra/people/plgkburkiewicz/fastqgzs/SRR32296237.fastq.gz` -> `cyfro-podole/sano5-tatlas-fastq/SRR32296237.fastq.gz`
+┌───────┬─────────────┬──────────┬────────────┐
+│ Total │ Transferred │ Duration │ Speed      │
+│ 197 B │ 197 B       │ 00m00s   │ 1.79 KiB/s │
+└───────┴─────────────┴──────────┴────────────┘
+Elapsed time for SRR32296237: 9 seconds
+
+Processing item: SRR32296242
+`/net/afscra/people/plgkburkiewicz/fastqgzs/SRR32296242.fastq.gz` -> `cyfro-podole/sano5-tatlas-fastq/SRR32296242.fastq.gz`
+┌───────┬─────────────┬──────────┬────────────┐
+│ Total │ Transferred │ Duration │ Speed      │
+│ 197 B │ 197 B       │ 00m00s   │ 3.84 KiB/s │
+└───────┴─────────────┴──────────┴────────────┘
+Elapsed time for SRR32296242: 8 seconds
+
+Processing item: SRR32296243
+`/net/afscra/people/plgkburkiewicz/fastqgzs/SRR32296243.fastq.gz` -> `cyfro-podole/sano5-tatlas-fastq/SRR32296243.fastq.gz`
+┌───────┬─────────────┬──────────┬────────────┐
+│ Total │ Transferred │ Duration │ Speed      │
+│ 197 B │ 197 B       │ 00m00s   │ 1.47 KiB/s │
+└───────┴─────────────┴──────────┴────────────┘
+Elapsed time for SRR32296243: 9 seconds
+
+Processing item: SRR32296244
+`/net/afscra/people/plgkburkiewicz/fastqgzs/SRR32296244.fastq.gz` -> `cyfro-podole/sano5-tatlas-fastq/SRR32296244.fastq.gz`
+┌───────┬─────────────┬──────────┬────────────┐
+│ Total │ Transferred │ Duration │ Speed      │
+│ 197 B │ 197 B       │ 00m00s   │ 4.24 KiB/s │
+└───────┴─────────────┴──────────┴────────────┘
+Elapsed time for SRR32296244: 8 seconds
+
+Processing item: SRR32296245
+`/net/afscra/people/plgkburkiewicz/fastqgzs/SRR32296245.fastq.gz` -> `cyfro-podole/sano5-tatlas-fastq/SRR32296245.fastq.gz`
+┌───────┬─────────────┬──────────┬────────────┐
+│ Total │ Transferred │ Duration │ Speed      │
+│ 197 B │ 197 B       │ 00m00s   │ 4.78 KiB/s │
+└───────┴─────────────┴──────────┴────────────┘
+Elapsed time for SRR32296245: 8 seconds
+
+Processing item: SRR32296246
+`/net/afscra/people/plgkburkiewicz/fastqgzs/SRR32296246.fastq.gz` -> `cyfro-podole/sano5-tatlas-fastq/SRR32296246.fastq.gz`
+┌───────┬─────────────┬──────────┬────────────┐
+│ Total │ Transferred │ Duration │ Speed      │
+│ 197 B │ 197 B       │ 00m00s   │ 4.89 KiB/s │
+└───────┴─────────────┴──────────┴────────────┘
+Elapsed time for SRR32296246: 9 seconds
+
+Processing item: SRR32296247
+`/net/afscra/people/plgkburkiewicz/fastqgzs/SRR32296247.fastq.gz` -> `cyfro-podole/sano5-tatlas-fastq/SRR32296247.fastq.gz`
+┌───────┬─────────────┬──────────┬────────────┐
+│ Total │ Transferred │ Duration │ Speed      │
+│ 197 B │ 197 B       │ 00m00s   │ 4.18 KiB/s │
+└───────┴─────────────┴──────────┴────────────┘
+Elapsed time for SRR32296247: 8 seconds
+
+Processing item: SRR32296248
+`/net/afscra/people/plgkburkiewicz/fastqgzs/SRR32296248.fastq.gz` -> `cyfro-podole/sano5-tatlas-fastq/SRR32296248.fastq.gz`
+┌───────┬─────────────┬──────────┬────────────┐
+│ Total │ Transferred │ Duration │ Speed      │
+│ 197 B │ 197 B       │ 00m00s   │ 2.91 KiB/s │
+└───────┴─────────────┴──────────┴────────────┘
+Elapsed time for SRR32296248: 9 seconds
+
+Processing item: SRR32296249
+`/net/afscra/people/plgkburkiewicz/fastqgzs/SRR32296249.fastq.gz` -> `cyfro-podole/sano5-tatlas-fastq/SRR32296249.fastq.gz`
+┌───────┬─────────────┬──────────┬────────────┐
+│ Total │ Transferred │ Duration │ Speed      │
+│ 197 B │ 197 B       │ 00m00s   │ 5.25 KiB/s │
+└───────┴─────────────┴──────────┴────────────┘
+Elapsed time for SRR32296249: 8 seconds
+
+Processing item: SRR32296253
+`/net/afscra/people/plgkburkiewicz/fastqgzs/SRR32296253.fastq.gz` -> `cyfro-podole/sano5-tatlas-fastq/SRR32296253.fastq.gz`
+┌───────┬─────────────┬──────────┬────────────┐
+│ Total │ Transferred │ Duration │ Speed      │
+│ 197 B │ 197 B       │ 00m00s   │ 2.70 KiB/s │
+└───────┴─────────────┴──────────┴────────────┘
+Elapsed time for SRR32296253: 8 seconds
+
+Processing item: SRR32296254
+`/net/afscra/people/plgkburkiewicz/fastqgzs/SRR32296254.fastq.gz` -> `cyfro-podole/sano5-tatlas-fastq/SRR32296254.fastq.gz`
+┌───────┬─────────────┬──────────┬────────────┐
+│ Total │ Transferred │ Duration │ Speed      │
+│ 197 B │ 197 B       │ 00m00s   │ 1.87 KiB/s │
+└───────┴─────────────┴──────────┴────────────┘
+Elapsed time for SRR32296254: 9 seconds
+
+Processing item: SRR32296257
+`/net/afscra/people/plgkburkiewicz/fastqgzs/SRR32296257.fastq.gz` -> `cyfro-podole/sano5-tatlas-fastq/SRR32296257.fastq.gz`
+┌───────┬─────────────┬──────────┬────────────┐
+│ Total │ Transferred │ Duration │ Speed      │
+│ 197 B │ 197 B       │ 00m00s   │ 5.62 KiB/s │
+└───────┴─────────────┴──────────┴────────────┘
+Elapsed time for SRR32296257: 9 seconds
+
+Processing item: SRR32296276
+`/net/afscra/people/plgkburkiewicz/fastqgzs/SRR32296276.fastq.gz` -> `cyfro-podole/sano5-tatlas-fastq/SRR32296276.fastq.gz`
+┌───────┬─────────────┬──────────┬────────────┐
+│ Total │ Transferred │ Duration │ Speed      │
+│ 197 B │ 197 B       │ 00m00s   │ 2.70 KiB/s │
+└───────┴─────────────┴──────────┴────────────┘
+Elapsed time for SRR32296276: 8 seconds
+
+Processing item: SRR32296277
+`/net/afscra/people/plgkburkiewicz/fastqgzs/SRR32296277.fastq.gz` -> `cyfro-podole/sano5-tatlas-fastq/SRR32296277.fastq.gz`
+┌───────┬─────────────┬──────────┬────────────┐
+│ Total │ Transferred │ Duration │ Speed      │
+│ 197 B │ 197 B       │ 00m00s   │ 1.47 KiB/s │
+└───────┴─────────────┴──────────┴────────────┘
+Elapsed time for SRR32296277: 8 seconds
+
+Processing item: SRR32296278
+`/net/afscra/people/plgkburkiewicz/fastqgzs/SRR32296278.fastq.gz` -> `cyfro-podole/sano5-tatlas-fastq/SRR32296278.fastq.gz`
+┌───────┬─────────────┬──────────┬────────────┐
+│ Total │ Transferred │ Duration │ Speed      │
+│ 197 B │ 197 B       │ 00m00s   │ 1.66 KiB/s │
+└───────┴─────────────┴──────────┴────────────┘
+Elapsed time for SRR32296278: 9 seconds
+
+Processing item: SRR32296279
+`/net/afscra/people/plgkburkiewicz/fastqgzs/SRR32296279.fastq.gz` -> `cyfro-podole/sano5-tatlas-fastq/SRR32296279.fastq.gz`
+┌───────┬─────────────┬──────────┬─────────┐
+│ Total │ Transferred │ Duration │ Speed   │
+│ 197 B │ 197 B       │ 00m00s   │ 870 B/s │
+└───────┴─────────────┴──────────┴─────────┘
+Elapsed time for SRR32296279: 9 seconds
+
+Processing item: SRR32296304
+`/net/afscra/people/plgkburkiewicz/fastqgzs/SRR32296304.fastq.gz` -> `cyfro-podole/sano5-tatlas-fastq/SRR32296304.fastq.gz`
+┌───────┬─────────────┬──────────┬─────────┐
+│ Total │ Transferred │ Duration │ Speed   │
+│ 197 B │ 197 B       │ 00m00s   │ 652 B/s │
+└───────┴─────────────┴──────────┴─────────┘
+Elapsed time for SRR32296304: 8 seconds
+
+Processing item: SRR32499888
+`/net/afscra/people/plgkburkiewicz/fastqgzs/SRR32499888.fastq.gz` -> `cyfro-podole/sano5-tatlas-fastq/SRR32499888.fastq.gz`
+┌───────┬─────────────┬──────────┬────────────┐
+│ Total │ Transferred │ Duration │ Speed      │
+│ 197 B │ 197 B       │ 00m00s   │ 1.75 KiB/s │
+└───────┴─────────────┴──────────┴────────────┘
+Elapsed time for SRR32499888: 9 seconds
+
+
