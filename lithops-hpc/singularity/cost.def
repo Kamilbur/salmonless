@@ -1,0 +1,35 @@
+Bootstrap: docker
+From: ubuntu:22.04
+
+%post
+    export DEBIAN_FRONTEND=noninteractive
+
+    apt-get update
+    apt-get install -y \
+        wget \
+        aria2
+
+    export TATLAS_PATH=/opt/TAtlas
+
+    export SALMON_VER=1.10.0
+    export SRATOOLS_VER=3.2.1
+
+    export SALMON_DIR=salmon
+    export SRATOOLS_DIR=sratoolkit
+
+    export SALMON_PATH=${TATLAS_PATH}/${SALMON_DIR}
+    export SRATOOLS_PATH=${TATLAS_PATH}/${SRATOOLS_DIR}
+    export SALMON_DOWNLOAD_URL=https://github.com/COMBINE-lab/salmon/releases/download/v${SALMON_VER}/salmon-${SALMON_VER}_linux_x86_64.tar.gz
+    export SRATOOLS_DOWNLOAD_URL=https://ftp-trace.ncbi.nlm.nih.gov/sra/sdk/${SRATOOLS_VER}/sratoolkit.${SRATOOLS_VER}-ubuntu64.tar.gz
+
+
+    mkdir -p ${TATLAS_PATH}
+
+    mkdir -p ${SALMON_PATH}
+    wget ${SALMON_DOWNLOAD_URL} -qO - | tar -zx -C ${SALMON_PATH} --strip-components=1
+    ln -s ${SALMON_PATH}/bin/salmon /usr/bin/salmon
+
+    mkdir -p ${SRATOOLS_PATH}
+    wget ${SRATOOLS_DOWNLOAD_URL} -qO - | tar -zx -C ${SRATOOLS_PATH} --strip-components=1
+    ln -s ${SRATOOLS_PATH}/bin/fasterq-dump /usr/bin/fasterq-dump
+

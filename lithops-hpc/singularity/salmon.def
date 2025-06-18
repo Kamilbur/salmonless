@@ -27,7 +27,7 @@ Stage: build
     wget https://github.com/COMBINE-lab/salmon/releases/download/v1.10.0/salmon-1.10.0_linux_x86_64.tar.gz -qO - | tar -zx -C /opt/TAtlas/
 
 
-    export DATAPLUG_BRANCH=speed-test
+    export DATAPLUG_BRANCH=master
     mkdir -p /opt/dataplug/
     wget https://github.com/Kamilbur/dataplug-fork/archive/refs/heads/${DATAPLUG_BRANCH}.zip -qO /opt/dataplug.zip
     unzip /opt/dataplug.zip -d /opt
