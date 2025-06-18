@@ -1,0 +1,39 @@
+FROM lithops-serverless-worker
+
+RUN pip install --upgrade --ignore-installed pip wheel six setuptools \
+    && pip install --upgrade --no-cache-dir --ignore-installed \
+        awslambdaric \
+        boto3 \
+        redis \
+        httplib2 \
+        requests \
+        numpy \
+        scipy \
+        pandas \
+        pika \
+        kafka-python \
+        cloudpickle \
+        ps-mem \
+        tblib \
+        psutil \
+        wrapt \
+        pyarrow \
+        fastparquet
+
+
+ARG FUNCTION_DIR="/function"
+RUN mkdir -p ${FUNCTION_DIR}
+WORKDIR ${FUNCTION_DIR}
+ENV PATH=$PATH:/function
+
+COPY lithops_lambda.zip ${FUNCTION_DIR}
+RUN unzip -o lithops_lambda.zip
+
+#\
+#    && rm lithops_lambda.zip \
+#    && mkdir -p handler \
+#    && touch handler/__init__.py \
+#    && mv entry_point.py handler
+
+#CMD [ "/usr/local/bin/python3", "-m", "awslambdaric", "handler.entry_point.lambda_handler" ]
+CMD [ "/usr/local/bin/python3", "-m", "awslambdaric", "entry_point.lambda_handler" ]
