@@ -1,0 +1,15 @@
+FROM python:3.12-slim-bookworm
+
+RUN apt-get update \
+    && apt-get install -y \
+      unzip \
+      wget \
+      gztool \
+    && rm -rf /var/lib/apt/lists/*
+
+RUN mkdir -p /opt/TAtlas/ &&\
+    wget https://github.com/COMBINE-lab/salmon/releases/download/v1.10.0/salmon-1.10.0_linux_x86_64.tar.gz -qO -  \
+        | tar -zx -C /opt/TAtlas/ && \
+    echo 'export PATH="$PATH":/opt/TAtlas/salmon-latest_linux_x86_64/bin' >> ~/.bashrc
+
+COPY index_Homo_sapiens.GRCh38 /opt/TAtlas/index_Homo_sapiens.GRCh38

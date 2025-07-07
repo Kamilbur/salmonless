@@ -1,0 +1,108 @@
+ gcccore/12.2.0 loaded.
+ zlib/1.2.12-gcccore-12.2.0 loaded.
+ binutils/2.39-gcccore-12.2.0 loaded.
+ bzip2/1.0.8-gcccore-12.2.0 loaded.
+ ncurses/6.3-gcccore-12.2.0 loaded.
+ libreadline/8.2-gcccore-12.2.0 loaded.
+ tcl/8.6.12-gcccore-12.2.0 loaded.
+ sqlite/3.39.4-gcccore-12.2.0 loaded.
+ xz/5.2.7-gcccore-12.2.0 loaded.
+ gmp/6.2.1-gcccore-12.2.0 loaded.
+ libffi/3.4.4-gcccore-12.2.0 loaded.
+ openssl/1.1 loaded.
+ python/3.10.8-gcccore-12.2.0 loaded.
+Processing item: SRR19392985
+3.447587013244629
+Elapsed time for SRR19392985: 9 seconds
+
+Processing item: SRR000001
+4.401791095733643
+Elapsed time for SRR000001: 5 seconds
+
+Processing item: SRR000002
+18.533475399017334
+Elapsed time for SRR000002: 20 seconds
+
+Processing item: SRR32296234
+91.71307969093323
+Elapsed time for SRR32296234: 92 seconds
+
+Processing item: SRR32296235
+91.35830473899841
+Elapsed time for SRR32296235: 92 seconds
+
+Processing item: SRR32296236
+129.39542031288147
+Elapsed time for SRR32296236: 131 seconds
+
+Processing item: SRR32296237
+98.89212727546692
+Elapsed time for SRR32296237: 100 seconds
+
+Processing item: SRR32296242
+161.93255734443665
+Elapsed time for SRR32296242: 162 seconds
+
+Processing item: SRR32296243
+122.48156571388245
+Elapsed time for SRR32296243: 124 seconds
+
+Processing item: SRR32296244
+167.27388048171997
+Elapsed time for SRR32296244: 168 seconds
+
+Processing item: SRR32296245
+121.63103175163269
+Elapsed time for SRR32296245: 122 seconds
+
+Processing item: SRR32296246
+112.10158014297485
+Elapsed time for SRR32296246: 113 seconds
+
+Processing item: SRR32296247
+111.52211880683899
+Elapsed time for SRR32296247: 113 seconds
+
+Processing item: SRR32296248
+170.59566688537598
+Elapsed time for SRR32296248: 171 seconds
+
+Processing item: SRR32296249
+136.8460352420807
+Elapsed time for SRR32296249: 138 seconds
+
+Processing item: SRR32296253
+120.58390140533447
+Elapsed time for SRR32296253: 121 seconds
+
+Processing item: SRR32296254
+169.21311616897583
+Elapsed time for SRR32296254: 170 seconds
+
+Processing item: SRR32296257
+165.69860792160034
+Elapsed time for SRR32296257: 167 seconds
+
+Processing item: SRR32296276
+91.16484022140503
+Elapsed time for SRR32296276: 92 seconds
+
+Processing item: SRR32296277
+88.75394415855408
+Elapsed time for SRR32296277: 90 seconds
+
+Processing item: SRR32296278
+99.83151412010193
+Elapsed time for SRR32296278: 100 seconds
+
+Processing item: SRR32296279
+143.54310631752014
+Elapsed time for SRR32296279: 145 seconds
+
+Processing item: SRR32296304
+107.15484690666199
+Elapsed time for SRR32296304: 108 seconds
+
+Processing item: SRR32499888
+684.8117611408234
+Elapsed time for SRR32499888: 685 seconds

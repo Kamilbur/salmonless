@@ -1,0 +1,30 @@
+16
+SRR32296234
+1743174267563
+
+03/28 16:04:27 [[1;32mNOTICE[0m] Downloading 1 item(s)
+
+03/28 16:04:27 [[1;32mNOTICE[0m] File already exists. Renamed to /scratch/SRR32296234.1.
+[#ae5d34 262MiB/3.0GiB(8%) CN:5 DL:294MiB ETA:9s]
+[#ae5d34 555MiB/3.0GiB(17%) CN:5 DL:295MiB ETA:8s]
+[#ae5d34 847MiB/3.0GiB(27%) CN:5 DL:295MiB ETA:7s]
+[#ae5d34 1.1GiB/3.0GiB(36%) CN:5 DL:295MiB ETA:6s]
+[#ae5d34 1.4GiB/3.0GiB(45%) CN:5 DL:296MiB ETA:5s]
+[#ae5d34 1.6GiB/3.0GiB(55%) CN:5 DL:296MiB ETA:4s]
+[#ae5d34 1.9GiB/3.0GiB(64%) CN:5 DL:295MiB ETA:3s]
+[#ae5d34 2.2GiB/3.0GiB(73%) CN:5 DL:294MiB ETA:2s]
+[#ae5d34 2.5GiB/3.0GiB(82%) CN:5 DL:293MiB ETA:1s]
+[#ae5d34 2.8GiB/3.0GiB(91%) CN:5 DL:293MiB]
+
+03/28 16:04:38 [[1;32mNOTICE[0m] Download complete: /scratch/SRR32296234.1
+
+Download Results:
+gid   |stat|avg speed  |path/URI
+======+====+===========+=======================================================
+ae5d34|OK  |   291MiB/s|/scratch/SRR32296234.1
+
+Status Legend:
+(OK):download completed.
+1743174278578
+1743174330252
+1743175437631
